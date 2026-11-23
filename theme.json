@@ -26,9 +26,9 @@
       "strong": "#262B404D"
     },
     "focus": {
-      "background": "#262B40",
-      "foreground": "#F5F6FA",
-      "ring": "#262B40"
+      "background": "#FFFFFF",
+      "foreground": "#262B40",
+      "ring": "#374166"
     },
     "selected": {
       "background": "#C4D0EB",
@@ -66,7 +66,7 @@
       "scrim": "#1A1F3380",
       "playerTop": "#16161ED9",
       "playerBottom": "#16161EF2",
-      "shadow": "#1A1F3333"
+      "shadow": "#1A1F3344"
     },
     "playback": {
       "foreground": "#FFFFFF",
