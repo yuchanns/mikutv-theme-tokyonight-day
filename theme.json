@@ -26,8 +26,8 @@
       "strong": "#262B404D"
     },
     "focus": {
-      "background": "#FFFFFF",
-      "foreground": "#262B40",
+      "background": "#2E64B5",
+      "foreground": "#FFFFFF",
       "ring": "#374166"
     },
     "selected": {
